@@ -3,10 +3,7 @@
 Игра представляет собой викторину, в которой представлены изображения картин из основного собрания Третьяковской галереи.
 В каждой сессии по 20 картин, где надо выбрать автора или название.
 
-Так же можно придумать название к случайному изображению картины.
-
-
-<a href='https://play.google.com/store/apps/details?id=ru.gavarent.quiz'><img alt='Доступно в Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ru_badge_web_generic.png' width=240/></a>
+<a href="https://t.me/GavarentPictureQuizBot/picturequiz">Запустить викторину в телеграм</a>
 
 <div>
 <img src="https://play-lh.googleusercontent.com/fmD_2s80QDD1-slWh9LFs8SPRNFHDSlNbWr3-fhpmqNr4-e8eFBjbhe13ZnKhKekPbs=w720-h310-rw" srcset="https://play-lh.googleusercontent.com/fmD_2s80QDD1-slWh9LFs8SPRNFHDSlNbWr3-fhpmqNr4-e8eFBjbhe13ZnKhKekPbs=w1440-h620-rw 2x" class="T75of DYfLw" aria-hidden="true" width="155" height="310" alt="Скриншот" itemprop="image" data-atf="true" data-iml="46447.5">
